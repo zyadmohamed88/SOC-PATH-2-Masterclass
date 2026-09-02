@@ -1,0 +1,14 @@
+# Python / OS Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+
+# IDE / Editor Settings
+.vscode/
+.idea/
+
+# Local build temp files
+*.tmp
