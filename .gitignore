@@ -12,3 +12,6 @@ Thumbs.db
 
 # Local build temp files
 *.tmp
+
+# Source documents
+*.docx
