@@ -60,7 +60,7 @@ Simply open **`index.html`** or **`SOC_PATH_2_Masterclass.html`** in any modern 
 ## ✍️ Author & Credits
 
 **Zyad Elsheshtawy**  
-*Lead Cyber Security Architect & Threat Detection Specialist*
+*SOC Analyst*
 
 ---
 
