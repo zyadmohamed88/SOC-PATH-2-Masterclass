@@ -1,7 +1,19 @@
+<div align="center">
+
 # SOC PATH 2 Masterclass & Lab Evidence Platform
 
-> **Enterprise Cyber Security Operations Center (SOC) Masterclass & Interactive Threat Detection Handbook**  
-> Authored & Engineered by **Zyad Elsheshtawy**
+<p align="center">
+  <img src="https://img.shields.io/badge/AUTHOR-ZYAD%20ELSHESHTAWY-00f2fe?style=for-the-badge&logo=github&logoColor=000000" alt="Author">
+  <img src="https://img.shields.io/badge/ROLE-SOC%20ANALYST-9d4edd?style=for-the-badge&logo=shield&logoColor=ffffff" alt="Role">
+  <img src="https://img.shields.io/badge/LAB%20EVIDENCE-907%20SCREENSHOTS-10b981?style=for-the-badge&logo=googlephotos&logoColor=ffffff" alt="Evidence">
+  <img src="https://img.shields.io/badge/MODULES-14%20SOC%20DOMAINS-f59e0b?style=for-the-badge&logo=simpleanalytics&logoColor=ffffff" alt="Modules">
+  <img src="https://img.shields.io/badge/ARCHITECTURE-STANDALONE%20HTML5-06b6d4?style=for-the-badge&logo=html5&logoColor=ffffff" alt="Architecture">
+</p>
+
+> **Enterprise Cyber Security Operations Center (SOC) Masterclass & Threat Detection Handbook**  
+> Curated & Engineered by **Zyad Elsheshtawy**
+
+</div>
 
 ---
 
@@ -11,7 +23,22 @@
 
 ---
 
-## Key Features & Architecture
+## Technical Specifications & Architecture
+
+<table align="center">
+  <tr>
+    <td align="center"><b>UI Architecture</b></td>
+    <td align="center"><b>Evidence Stream</b></td>
+    <td align="center"><b>Execution Mode</b></td>
+    <td align="center"><b>Portability</b></td>
+  </tr>
+  <tr>
+    <td>AAA Cyber Glassmorphism & Interactive Particle Field</td>
+    <td>907 Uncropped Screenshots in Natural Vertical Stream</td>
+    <td>Client-Side Interactive Lightbox & Search Filter</td>
+    <td>100% Standalone (Base64 WebP Embedded Data)</td>
+  </tr>
+</table>
 
 - **AAA Glassmorphism Cyber UI**: Built with a dark-mode visual hierarchy, glowing neon accents, and backdrop glassmorphic blur.
 - **Interactive Particle Canvas**: Dynamic background rendering connected constellation nodes that physically react to cursor movement.
@@ -20,7 +47,6 @@
 - **One-Click Code Copy**: Terminal code blocks featuring OS-style window controls and instant clipboard copy with toast notifications.
 - **Module Search & Category Filtering**: Real-time search across all 14 modules, SPL queries, CLI commands, and category filters (SIEM, Cloud, Detection, Hunting, Malware).
 - **Persistent Progress Tracker**: Mark completed modules with progress state persisted in local browser storage.
-- **Standalone & Portable**: Self-contained single-file Web Application (all images embedded as compressed WebP Base64). No external server or internet connection required.
 
 ---
 
