@@ -1,30 +1,30 @@
-# 🛡️ SOC PATH 2 Masterclass & Lab Evidence Platform
+# SOC PATH 2 Masterclass & Lab Evidence Platform
 
 > **Enterprise Cyber Security Operations Center (SOC) Masterclass & Interactive Threat Detection Handbook**  
 > Authored & Engineered by **Zyad Elsheshtawy**
 
 ---
 
-## 🌟 Overview
+## Overview
 
-**SOC PATH 2 Masterclass** is a standalone, enterprise-grade Cyber Security Operations Center (SOC) documentation and lab evidence platform. Designed with an ultra-sleek, dark-mode cyber aesthetic, it consolidates **907 full natural-aspect ratio lab screenshots**, deep operational security theory, Search Processing Language (SPL) queries, Sigma detection rules, and Incident Response (IR) playbooks across 14 comprehensive SOC modules.
-
----
-
-## 🚀 Key Features & Highlights
-
-- 💎 **AAA Glassmorphism Cyber UI**: Built with a sleek dark-mode visual hierarchy, glowing neon accents, and backdrop glassmorphic blur.
-- ⚡ **Interactive Particle Canvas**: Dynamic background rendering connected constellation nodes that physically react to cursor movement.
-- 📸 **100% Uncropped Vertical Image Stream**: Sequential evidence feeds preserving full native aspect ratios for all 907 lab screenshots.
-- 🔍 **Interactive Fullscreen Lightbox**: Click any lab evidence image to inspect in full resolution with zoom, pan, and keyboard navigation (`Arrow Keys` & `ESC`).
-- 📋 **One-Click Code Copy**: Terminal code blocks featuring macOS/Linux window controls and instant clipboard copy with glowing toast notifications.
-- 🎯 **Module Search & Category Filtering**: Real-time search across all 14 modules, SPL queries, CLI commands, and category filters (SIEM, Cloud, Detection, Hunting, Malware).
-- 📊 **Persistent Progress Tracker**: Mark completed modules with progress state persisted in local browser storage.
-- 🌐 **100% Standalone & Portable**: Self-contained single-file Web Application (all images embedded as compressed WebP Base64). No external server or internet connection required.
+**SOC PATH 2 Masterclass** is a standalone, enterprise-grade Cyber Security Operations Center (SOC) documentation and lab evidence platform. Designed with a dark-mode cyber aesthetic, it consolidates **907 full natural-aspect ratio lab screenshots**, deep operational security theory, Search Processing Language (SPL) queries, Sigma detection rules, and Incident Response (IR) playbooks across 14 comprehensive SOC modules.
 
 ---
 
-## 📚 Core Modules Covered
+## Key Features & Architecture
+
+- **AAA Glassmorphism Cyber UI**: Built with a dark-mode visual hierarchy, glowing neon accents, and backdrop glassmorphic blur.
+- **Interactive Particle Canvas**: Dynamic background rendering connected constellation nodes that physically react to cursor movement.
+- **Uncropped Vertical Image Stream**: Sequential evidence feeds preserving full native aspect ratios for all 907 lab screenshots.
+- **Interactive Fullscreen Lightbox**: Click any lab evidence image to inspect in full resolution with zoom, pan, and keyboard navigation (`Arrow Keys` & `ESC`).
+- **One-Click Code Copy**: Terminal code blocks featuring OS-style window controls and instant clipboard copy with toast notifications.
+- **Module Search & Category Filtering**: Real-time search across all 14 modules, SPL queries, CLI commands, and category filters (SIEM, Cloud, Detection, Hunting, Malware).
+- **Persistent Progress Tracker**: Mark completed modules with progress state persisted in local browser storage.
+- **Standalone & Portable**: Self-contained single-file Web Application (all images embedded as compressed WebP Base64). No external server or internet connection required.
+
+---
+
+## Core Curriculum & Modules
 
 1. **Log Analysis & Operations**: Syslog RFC 5424, rsyslog pipelines, log parsing & normalization.
 2. **Advanced Splunk Masterclass**: Enterprise SIEM monitoring, complex SPL queries, alert engineering.
@@ -43,21 +43,21 @@
 
 ---
 
-## 💻 How to Run Locally or Deploy to GitHub Pages
+## Deployment & Usage
 
-### Running Locally
-Simply open **`index.html`** or **`SOC_PATH_2_Masterclass.html`** in any modern web browser (Chrome, Edge, Firefox, Brave, Safari).
+### Local Usage
+Simply open **`SOC_PATH_2_Masterclass.html`** in any modern web browser (Chrome, Edge, Firefox, Brave, Safari).
 
-### Deploying to GitHub Pages
-1. Push this repository to GitHub.
+### GitHub Pages Deployment
+1. Push repository to GitHub.
 2. Navigate to **Repository Settings** -> **Pages**.
 3. Under **Build and deployment**, select **Deploy from a branch**.
 4. Choose the `main` (or `master`) branch and set root folder to `/`.
-5. Click **Save**. Your site will be live instantly!
+5. Click **Save**.
 
 ---
 
-## ✍️ Author & Credits
+## Author & Attribution
 
 **Zyad Elsheshtawy**  
 *SOC Analyst*
